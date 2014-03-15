@@ -297,7 +297,7 @@
 	</head>
 	<body>
 		<div id="head">
-			<h1>&laquo; SharksMedia drupal 7 module downloader &raquo;</h1>
+			<h1>&laquo; drupal 7 module downloader &raquo;</h1>
 		</div>
 		<div id="content">
 			<?
